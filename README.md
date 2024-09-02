@@ -1,0 +1,6 @@
+- 👋 Hi, I’m 'Sophie Fan'
+- 👀 I’m interested in gym, music, house keeping, reading, cooking
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate with everyone
+- 📫 Reach me by 'xiaoyu.fan@hp.com'
+- 😊 It's nice to meet you here
