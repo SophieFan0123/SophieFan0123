@@ -12,8 +12,8 @@ BLUE = (0, 0, 255)
 
 class SnakeGame:
     def __init__(self):
-        self.width = 800
-        self.height = 600
+        self.width = 1024
+        self.height = 768
         self.bg_color = BLUE
         self.snake_color = GREEN
         self.food_color = RED
